@@ -42,7 +42,7 @@
     "jpeg-js": "^0.4.4",
     "jsqr": "^1.4.0",
     "libphonenumber": "^0.0.10",
-    "moment-timezone": "^0.5.45",
+    "moment-timezone": "^0.6.0",
     "nayan-media-downloader": "^0.0.1-security",
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.3",
